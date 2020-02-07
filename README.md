@@ -1,4 +1,4 @@
-# READ ME file for My.Miyagi
+# READ ME file for Magic Weather
 The following code will tell you what to wear depending on the weather
 
 ## Here I learnt:
